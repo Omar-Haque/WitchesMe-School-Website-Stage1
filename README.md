@@ -1,1 +1,1 @@
-# WitchesMe-School-Website-Stage1
+# School website
